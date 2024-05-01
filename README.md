@@ -1,6 +1,6 @@
 ### Olá, eu sou a Laiza 👋
 
-- 🔭 Atualmente trabalho com Front- ...
+- 🔭 Atualmente trabalho com Front-end
 - 🌱 Estou aprendendo Java Script
 - 💬 Me contate no e-mail laiza2002bueno@gmail.com
 - 😄 pronomes: ela/dela
