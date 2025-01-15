@@ -1,9 +1,9 @@
 ### Olá, eu sou a Laiza 👋
 
-- 👩🏻‍💻 Estou em busca da primeira oportunidade na área de técnologia!
-- 🔭 Atualmente desenvolvo projetos front-End
-- 🌱 Estou aprendendo Java Script
-- 💬 Me contate no e-mail laiza2002bueno@gmail.com
+- 👩🏻‍💻 Estou buscando uma oportunidade que desafie a minha produtividade!
+- 🔭 Atualmente desenvolvo SITES e trabalho com a plataforma JIRA
+- 🌱 Estou aprendendo Java Script e Python
+- 💬 Me contate no e-mail laiza2002bueno@gmail.com 
 - 😄 pronomes: ela/dela
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaizaBueno&theme=neon&show_icons=true)
